@@ -1,0 +1,211 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPez1VPXC9Y6So71sxWgzVU",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Vyshnavijulapelly/AIML-2025/blob/main/Lab_03\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**PART-01:Implement the AI Game Statergy**"
+      ],
+      "metadata": {
+        "id": "VJHZIPe3rFDA"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from collections import namedtuple, Counter, defaultdict\n",
+        "import random\n",
+        "import math\n",
+        "import functools\n",
+        "cache = functools.lru_cache(10**6)"
+      ],
+      "metadata": {
+        "id": "S5_2wO-brJ8R"
+      },
+      "execution_count": 1,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "class Game:\n",
+        "  def actions(self, state):\n",
+        "    \"\"\"Return the collection of the allowable moves from the state\"\"\"\n",
+        "    raise NotImplementedError"
+      ],
+      "metadata": {
+        "id": "oXwOJWnYr23r"
+      },
+      "execution_count": 2,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def result(self, state, move):\n",
+        "  \"\"\"Return the state that results from making a move from a\"\"\"\n",
+        "  raise NotImplementedError"
+      ],
+      "metadata": {
+        "id": "b712NhE1tAQD"
+      },
+      "execution_count": 3,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def its_terminal(self, state):\n",
+        "  \"\"\"Return True if this is a final state of a game.\"\"\"\n",
+        "  return not self.actions(state)"
+      ],
+      "metadata": {
+        "id": "6ocp3VAQuRXS"
+      },
+      "execution_count": 11,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def utility(self, state, player):\n",
+        "  \"\"\"Return the value of final state to a player.\"\"\"\n",
+        "  raise NotImplementedError"
+      ],
+      "metadata": {
+        "id": "T4gqT7U6vutb"
+      },
+      "execution_count": 12,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def play_game(game, statergies: dict, verbose=False):\n",
+        "  state=game.initial\n",
+        "  while not game.is_terminal(state):\n",
+        "    player = state.to_move\n",
+        "    move = statergies[player](game, state)\n",
+        "    state = game.result(state, move)\n",
+        "    if verbose:\n",
+        "      print('player',player, 'move:', move)\n",
+        "      print(state)\n",
+        "      return state"
+      ],
+      "metadata": {
+        "id": "eTETGj3twIp0"
+      },
+      "execution_count": 13,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**PART-02:Implement The Game Statergy Algorithms.**"
+      ],
+      "metadata": {
+        "id": "aCbYnA5q2ak-"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "*1.Implement the Min-Max Search Algorithm*"
+      ],
+      "metadata": {
+        "id": "Rp8vaeYu3ZPz"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def minimax_search(game, state):\n",
+        "  player = state.to_move\n",
+        "  def max_value(state):\n",
+        "    if game.its_terminal(state):\n",
+        "      return game.utility(state, player), None\n",
+        "    v, move = -infinity, None\n",
+        "    for a in game.actions(state):\n",
+        "      v2,_ = min_value(game.result(state, a))\n",
+        "      if v2>v:\n",
+        "        v, move = v2, a\n",
+        "        return v, move"
+      ],
+      "metadata": {
+        "id": "lhW5zeTaxfdQ"
+      },
+      "execution_count": 15,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def min_value(state):\n",
+        "  if game.is_terminal(state):\n",
+        "    return game.utility(state, player), None\n",
+        "  v, move = +infinity, None\n",
+        "  for a in game.actions(state):\n",
+        "    v2,_ = max_value(game.result(state, a))\n",
+        "    if v2 < v:\n",
+        "      v, move = v2, a\n",
+        "      return v, move\n",
+        "  return max_value(state)\n",
+        "infinity = math.inf"
+      ],
+      "metadata": {
+        "id": "WSPyRVpIzeFi"
+      },
+      "execution_count": 19,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "*2.Alpha-Beta Search Algorithm*"
+      ],
+      "metadata": {
+        "id": "ZiRr0lah3Dhc"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def alphabeta_search(game, state):\n",
+        "  player = state.to_move\n",
+        "  def max_value(state, alpha, beta):\n",
+        "    if game.is_terminal(state):\n",
+        "      return"
+      ],
+      "metadata": {
+        "id": "Qlffwu0q3q2l"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
