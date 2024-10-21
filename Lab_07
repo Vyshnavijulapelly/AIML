@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPgZGmDVBshakw6PThbO2xR",
+      "authorship_tag": "ABX9TyP0HXrwp/azy23s8DCfRh1d",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -73,7 +73,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "bb8mWQH660GS",
-        "outputId": "872db9b7-e494-4564-90ae-738d9cfe2f8f"
+        "outputId": "903c4256-d773-4f3a-8224-ea44fed52318"
       },
       "execution_count": 5,
       "outputs": [
@@ -99,7 +99,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "m6U0x65568jq",
-        "outputId": "af012cad-8720-4562-c6b9-5ca600c70817"
+        "outputId": "fe1aaf0e-1545-498f-9ea0-6740db13de3c"
       },
       "execution_count": 6,
       "outputs": [
@@ -241,7 +241,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "LqyUXs0Q7MJq",
-        "outputId": "71ffc83c-bf99-4f91-abd7-53f7962c7d41"
+        "outputId": "65ff85b3-2105-4d29-8686-5d689c70cfbc"
       },
       "execution_count": 7,
       "outputs": [
@@ -301,7 +301,7 @@
           "height": 384
         },
         "id": "sQBpFoZL8QG1",
-        "outputId": "15e8a60d-d1b5-4da7-faf3-ba9ba5fcca35"
+        "outputId": "3076f983-2b61-4ee6-de8b-1d914eadc889"
       },
       "execution_count": 8,
       "outputs": [
@@ -373,7 +373,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-8c91c4b7-ada6-4090-97bf-2164bf86480b\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-ca74a25a-9cf2-4aef-b170-a7afd9050dee\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -615,7 +615,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-8c91c4b7-ada6-4090-97bf-2164bf86480b')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-ca74a25a-9cf2-4aef-b170-a7afd9050dee')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -667,12 +667,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-8c91c4b7-ada6-4090-97bf-2164bf86480b button.colab-df-convert');\n",
+              "        document.querySelector('#df-ca74a25a-9cf2-4aef-b170-a7afd9050dee button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-8c91c4b7-ada6-4090-97bf-2164bf86480b');\n",
+              "        const element = document.querySelector('#df-ca74a25a-9cf2-4aef-b170-a7afd9050dee');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -692,8 +692,8 @@
               "  </div>\n",
               "\n",
               "\n",
-              "<div id=\"df-e8f69513-d7ad-4ff8-8f2a-feed1a80df71\">\n",
-              "  <button class=\"colab-df-quickchart\" onclick=\"quickchart('df-e8f69513-d7ad-4ff8-8f2a-feed1a80df71')\"\n",
+              "<div id=\"df-c4849b8a-2563-4d01-af91-6690f9a16fe2\">\n",
+              "  <button class=\"colab-df-quickchart\" onclick=\"quickchart('df-c4849b8a-2563-4d01-af91-6690f9a16fe2')\"\n",
               "            title=\"Suggest charts\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -812,7 +812,7 @@
               "    }\n",
               "    (() => {\n",
               "      let quickchartButtonEl =\n",
-              "        document.querySelector('#df-e8f69513-d7ad-4ff8-8f2a-feed1a80df71 button');\n",
+              "        document.querySelector('#df-c4849b8a-2563-4d01-af91-6690f9a16fe2 button');\n",
               "      quickchartButtonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "    })();\n",
@@ -841,7 +841,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "PikhWwP09J--",
-        "outputId": "5cccc1b2-981e-440a-d4eb-671530483335"
+        "outputId": "871a9e96-e08b-4de0-fdd6-9b6d3bfd6a21"
       },
       "execution_count": 9,
       "outputs": [
@@ -869,7 +869,7 @@
         "id": "5Ljn9RSd9Y6H",
         "outputId": "1438b3e3-5de9-4c3e-8ee8-cdee7700508a"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -918,9 +918,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "L8fx54IW9lXT",
-        "outputId": "e465124e-2151-41d6-bd4c-954a8722d800"
+        "outputId": "4abf89f7-c755-4f74-af5a-727c07442fb9"
       },
-      "execution_count": 11,
+      "execution_count": 10,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -930,7 +930,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 11
+          "execution_count": 10
         }
       ]
     },
@@ -946,9 +946,9 @@
           "height": 290
         },
         "id": "MbGOqlLx99pr",
-        "outputId": "b4e9601c-3e34-4659-b0a7-aa632e15016a"
+        "outputId": "1d68425f-b463-46ee-9c85-e5702c3bfd97"
       },
-      "execution_count": 12,
+      "execution_count": 11,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -993,7 +993,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-fc0e8539-bfde-424d-a07a-d3a77fb6daf3\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-8736d4af-b6bd-4d73-856e-e53f69ac97ca\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -1163,7 +1163,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-fc0e8539-bfde-424d-a07a-d3a77fb6daf3')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-8736d4af-b6bd-4d73-856e-e53f69ac97ca')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -1215,12 +1215,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-fc0e8539-bfde-424d-a07a-d3a77fb6daf3 button.colab-df-convert');\n",
+              "        document.querySelector('#df-8736d4af-b6bd-4d73-856e-e53f69ac97ca button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-fc0e8539-bfde-424d-a07a-d3a77fb6daf3');\n",
+              "        const element = document.querySelector('#df-8736d4af-b6bd-4d73-856e-e53f69ac97ca');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -1240,8 +1240,8 @@
               "  </div>\n",
               "\n",
               "\n",
-              "<div id=\"df-6eef2717-fe87-4cfe-b989-55632f55687a\">\n",
-              "  <button class=\"colab-df-quickchart\" onclick=\"quickchart('df-6eef2717-fe87-4cfe-b989-55632f55687a')\"\n",
+              "<div id=\"df-bad228be-5dc7-4e69-b255-3c1edbf39ba4\">\n",
+              "  <button class=\"colab-df-quickchart\" onclick=\"quickchart('df-bad228be-5dc7-4e69-b255-3c1edbf39ba4')\"\n",
               "            title=\"Suggest charts\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -1360,7 +1360,7 @@
               "    }\n",
               "    (() => {\n",
               "      let quickchartButtonEl =\n",
-              "        document.querySelector('#df-6eef2717-fe87-4cfe-b989-55632f55687a button');\n",
+              "        document.querySelector('#df-bad228be-5dc7-4e69-b255-3c1edbf39ba4 button');\n",
               "      quickchartButtonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "    })();\n",
@@ -1376,7 +1376,7 @@
             }
           },
           "metadata": {},
-          "execution_count": 12
+          "execution_count": 11
         }
       ]
     },
@@ -1393,7 +1393,7 @@
         "id": "WsQaTgd1_jLj",
         "outputId": "2932ac84-467f-474f-ea06-138ebac8735f"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1421,9 +1421,9 @@
           "height": 1000
         },
         "id": "M_lR8QPKDKvD",
-        "outputId": "319bcb13-28f3-4fe6-eaa9-d9167ff37e40"
+        "outputId": "50161421-42e9-4ab4-ecfd-e96e22c896ef"
       },
-      "execution_count": 14,
+      "execution_count": 12,
       "outputs": [
         {
           "output_type": "stream",
@@ -1462,9 +1462,9 @@
           "height": 1000
         },
         "id": "cuKF_lvhDsMf",
-        "outputId": "fe41714a-91e7-4ede-bba2-546772e80e1e"
+        "outputId": "b231dbba-2a5b-445a-9275-c6851122105a"
       },
-      "execution_count": 16,
+      "execution_count": 13,
       "outputs": [
         {
           "output_type": "stream",
@@ -1592,9 +1592,9 @@
           "height": 383
         },
         "id": "MznMvjCTEwPl",
-        "outputId": "bb3470a0-ba01-4c13-91c6-5ea7586a1ded"
+        "outputId": "0eca7efa-374d-4e41-9632-771f696aeaec"
       },
-      "execution_count": 17,
+      "execution_count": 14,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1604,7 +1604,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 17
+          "execution_count": 14
         },
         {
           "output_type": "display_data",
@@ -1629,9 +1629,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "45zRfjFhFlqZ",
-        "outputId": "50213277-1c64-489b-b13f-be094552e0bf"
+        "outputId": "314d4f91-44a7-44ca-d64f-bbda336ce273"
       },
-      "execution_count": 18,
+      "execution_count": 15,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1641,7 +1641,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 18
+          "execution_count": 15
         }
       ]
     },
@@ -1656,9 +1656,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "n_GvGfqCFrvP",
-        "outputId": "e50db9b6-d913-4069-d68c-bcdb06b380e5"
+        "outputId": "72e0305d-2394-4445-8d22-2960c65be950"
       },
-      "execution_count": 19,
+      "execution_count": 16,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1668,7 +1668,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 19
+          "execution_count": 16
         }
       ]
     },
@@ -1680,7 +1680,7 @@
       "metadata": {
         "id": "gVOq_cQ5F-qo"
       },
-      "execution_count": 20,
+      "execution_count": 17,
       "outputs": []
     },
     {
@@ -1691,7 +1691,7 @@
       "metadata": {
         "id": "in8q59gZJG3T"
       },
-      "execution_count": 23,
+      "execution_count": 18,
       "outputs": []
     },
     {
@@ -1704,9 +1704,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "gpQtD24FJLgc",
-        "outputId": "88001cf1-11a5-4cc3-bcdb-bd4043c3d604"
+        "outputId": "ecedd561-7fd7-447b-8503-63c41e309368"
       },
-      "execution_count": 24,
+      "execution_count": 19,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1716,7 +1716,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 24
+          "execution_count": 19
         }
       ]
     },
@@ -1728,7 +1728,7 @@
       "metadata": {
         "id": "z7kHJuQRJWOl"
       },
-      "execution_count": 25,
+      "execution_count": 20,
       "outputs": []
     },
     {
@@ -1739,7 +1739,7 @@
       "metadata": {
         "id": "W0BrBUErJoHg"
       },
-      "execution_count": 26,
+      "execution_count": 21,
       "outputs": []
     },
     {
@@ -1753,9 +1753,9 @@
           "height": 80
         },
         "id": "eMmLGXBrJ2QB",
-        "outputId": "d341e565-9ebb-4ce2-b211-d1b4a31a04c3"
+        "outputId": "f9da2ca7-6e8c-4f6d-81f3-e66febb6e61e"
       },
-      "execution_count": 27,
+      "execution_count": 22,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -2172,7 +2172,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 27
+          "execution_count": 22
         }
       ]
     },
@@ -2184,7 +2184,7 @@
       "metadata": {
         "id": "pExlAZvNJ-uJ"
       },
-      "execution_count": 28,
+      "execution_count": 23,
       "outputs": []
     },
     {
@@ -2195,7 +2195,7 @@
       "metadata": {
         "id": "24M2FNhBKTNe"
       },
-      "execution_count": 29,
+      "execution_count": 24,
       "outputs": []
     },
     {
@@ -2208,9 +2208,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "dgkSKzR-LJLp",
-        "outputId": "94f7ee4d-5ede-4552-adaf-f68deae0ed70"
+        "outputId": "8cc4515f-df05-482c-80e5-0f8f772fb515"
       },
-      "execution_count": 30,
+      "execution_count": 25,
       "outputs": [
         {
           "output_type": "stream",
@@ -2232,9 +2232,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "vzIELDxALKzi",
-        "outputId": "11e3e553-f56a-46e5-8176-64b9b258a9fa"
+        "outputId": "a296ffe6-5008-4394-cc07-c84a6fb0a5ee"
       },
-      "execution_count": 31,
+      "execution_count": 26,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -2244,7 +2244,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 31
+          "execution_count": 26
         }
       ]
     },
@@ -2258,9 +2258,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "g3-UdTKNBeAW",
-        "outputId": "d0a958de-ccac-48fa-9be5-3bb1a5de4961"
+        "outputId": "0422ac35-5b57-4e48-fc78-26d064ab724c"
       },
-      "execution_count": 32,
+      "execution_count": 27,
       "outputs": [
         {
           "output_type": "stream",
@@ -2293,9 +2293,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "ssnASrPtBm04",
-        "outputId": "635373e1-d117-474d-fa17-586c685ae47c"
+        "outputId": "bee3ce08-6ccf-4734-9f05-37262570c53d"
       },
-      "execution_count": 33,
+      "execution_count": 28,
       "outputs": [
         {
           "output_type": "stream",
@@ -2317,7 +2317,7 @@
       "metadata": {
         "id": "D4T0fIFMF8iv"
       },
-      "execution_count": 34,
+      "execution_count": 32,
       "outputs": []
     },
     {
@@ -2328,7 +2328,7 @@
       "metadata": {
         "id": "DVQ_EkqHGDFK"
       },
-      "execution_count": 35,
+      "execution_count": 30,
       "outputs": []
     },
     {
@@ -2339,7 +2339,7 @@
       "metadata": {
         "id": "ZoRT1WtrGJJG"
       },
-      "execution_count": 36,
+      "execution_count": 31,
       "outputs": []
     },
     {
@@ -2354,9 +2354,9 @@
           "height": 152
         },
         "id": "_FR5-MgWGOuk",
-        "outputId": "e175486d-4e00-42d3-8610-918f0832ab92"
+        "outputId": "39e8cc84-deb0-4c74-b867-99da9300cc15"
       },
-      "execution_count": 37,
+      "execution_count": 33,
       "outputs": [
         {
           "output_type": "stream",
@@ -2792,7 +2792,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 37
+          "execution_count": 33
         }
       ]
     },
@@ -2806,9 +2806,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "1pmvWbGSGT4W",
-        "outputId": "3ddc6013-11d0-4de9-efec-fd175810081a"
+        "outputId": "3cb2f3a7-63c9-477d-851f-b427ec8b977d"
       },
-      "execution_count": 38,
+      "execution_count": 34,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -2818,7 +2818,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 38
+          "execution_count": 34
         }
       ]
     },
@@ -2833,9 +2833,9 @@
           "height": 80
         },
         "id": "GwRhDDyoGYQ1",
-        "outputId": "ac9374ee-dda1-4984-9c76-549fb3b68fa8"
+        "outputId": "84d9c7b5-7e9b-491a-9f6b-1b4beb9654a3"
       },
-      "execution_count": 39,
+      "execution_count": 35,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3252,7 +3252,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 39
+          "execution_count": 35
         }
       ]
     },
@@ -3264,7 +3264,7 @@
       "metadata": {
         "id": "6CHAfKPOGjpB"
       },
-      "execution_count": 40,
+      "execution_count": 36,
       "outputs": []
     },
     {
@@ -3277,9 +3277,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "et1Cwne7Gn0r",
-        "outputId": "a9a58cc4-36b0-43f5-e295-d061b1c4623a"
+        "outputId": "1fc799c1-9d57-4783-8e80-978649c163c2"
       },
-      "execution_count": 41,
+      "execution_count": 37,
       "outputs": [
         {
           "output_type": "stream",
@@ -3301,9 +3301,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "BY3cNKTtGtRs",
-        "outputId": "99a07198-a253-4690-8518-9948f22b01b9"
+        "outputId": "0e665296-a18f-480f-9d76-407dfdf1a4ab"
       },
-      "execution_count": 42,
+      "execution_count": 38,
       "outputs": [
         {
           "output_type": "stream",
@@ -3335,9 +3335,9 @@
           "height": 152
         },
         "id": "y___30VAGzXn",
-        "outputId": "faca4d41-cc0b-47be-d622-245eb111da19"
+        "outputId": "ea47969c-dc4e-4126-b43e-2779fc7b8e10"
       },
-      "execution_count": 43,
+      "execution_count": 39,
       "outputs": [
         {
           "output_type": "stream",
@@ -3773,7 +3773,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 43
+          "execution_count": 39
         }
       ]
     },
@@ -3783,14 +3783,14 @@
         "grid.best_estimator_"
       ],
       "metadata": {
+        "id": "CqVfvGV3G3m8",
+        "outputId": "f8350565-c43a-44b2-835b-0a8242a8469f",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 80
-        },
-        "id": "CqVfvGV3G3m8",
-        "outputId": "846f71fd-7c16-447b-98f5-b6cde4c6188b"
+        }
       },
-      "execution_count": 44,
+      "execution_count": 40,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4207,6 +4207,960 @@
             ]
           },
           "metadata": {},
+          "execution_count": 40
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "grid_predictions = grid.predict(X_test)\n",
+        "print(confusion_matrix(y_test,grid_predictions))"
+      ],
+      "metadata": {
+        "id": "BP84zX8vG77i",
+        "outputId": "28e54a73-7d91-4416-9a94-17e1ce60b844",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 41,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[ 59   7]\n",
+            " [  4 101]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(classification_report(y_test,grid_predictions))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Se_TPsFoC9Vz",
+        "outputId": "38e0a8f5-c076-48a5-fdb8-9688a49fd2bb"
+      },
+      "execution_count": 42,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "              precision    recall  f1-score   support\n",
+            "\n",
+            "           0       0.94      0.89      0.91        66\n",
+            "           1       0.94      0.96      0.95       105\n",
+            "\n",
+            "    accuracy                           0.94       171\n",
+            "   macro avg       0.94      0.93      0.93       171\n",
+            "weighted avg       0.94      0.94      0.94       171\n",
+            "\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Another set of parameters for GridSearch\n"
+      ],
+      "metadata": {
+        "id": "TQQqFs1BIIQC"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "param_grid = {'C': [50,75,100,125,150], 'gamma': [1e-2,1e-3,1e-4,1e-5,1e-6], 'kernel': ['rbf']}\n",
+        "grid = GridSearchCV(SVC(tol=1e-5),param_grid,refit=True,verbose=1)\n",
+        "grid.fit(X_train,y_train)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 152
+        },
+        "id": "YLHsjOhFIPLO",
+        "outputId": "f39cbc34-760e-460c-87a2-852d20a219f2"
+      },
+      "execution_count": 43,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Fitting 5 folds for each of 25 candidates, totalling 125 fits\n"
+          ]
+        },
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "GridSearchCV(estimator=SVC(tol=1e-05),\n",
+              "             param_grid={'C': [50, 75, 100, 125, 150],\n",
+              "                         'gamma': [0.01, 0.001, 0.0001, 1e-05, 1e-06],\n",
+              "                         'kernel': ['rbf']},\n",
+              "             verbose=1)"
+            ],
+            "text/html": [
+              "<style>#sk-container-id-6 {\n",
+              "  /* Definition of color scheme common for light and dark mode */\n",
+              "  --sklearn-color-text: black;\n",
+              "  --sklearn-color-line: gray;\n",
+              "  /* Definition of color scheme for unfitted estimators */\n",
+              "  --sklearn-color-unfitted-level-0: #fff5e6;\n",
+              "  --sklearn-color-unfitted-level-1: #f6e4d2;\n",
+              "  --sklearn-color-unfitted-level-2: #ffe0b3;\n",
+              "  --sklearn-color-unfitted-level-3: chocolate;\n",
+              "  /* Definition of color scheme for fitted estimators */\n",
+              "  --sklearn-color-fitted-level-0: #f0f8ff;\n",
+              "  --sklearn-color-fitted-level-1: #d4ebff;\n",
+              "  --sklearn-color-fitted-level-2: #b3dbfd;\n",
+              "  --sklearn-color-fitted-level-3: cornflowerblue;\n",
+              "\n",
+              "  /* Specific color for light theme */\n",
+              "  --sklearn-color-text-on-default-background: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, black)));\n",
+              "  --sklearn-color-background: var(--sg-background-color, var(--theme-background, var(--jp-layout-color0, white)));\n",
+              "  --sklearn-color-border-box: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, black)));\n",
+              "  --sklearn-color-icon: #696969;\n",
+              "\n",
+              "  @media (prefers-color-scheme: dark) {\n",
+              "    /* Redefinition of color scheme for dark theme */\n",
+              "    --sklearn-color-text-on-default-background: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, white)));\n",
+              "    --sklearn-color-background: var(--sg-background-color, var(--theme-background, var(--jp-layout-color0, #111)));\n",
+              "    --sklearn-color-border-box: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, white)));\n",
+              "    --sklearn-color-icon: #878787;\n",
+              "  }\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 pre {\n",
+              "  padding: 0;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 input.sk-hidden--visually {\n",
+              "  border: 0;\n",
+              "  clip: rect(1px 1px 1px 1px);\n",
+              "  clip: rect(1px, 1px, 1px, 1px);\n",
+              "  height: 1px;\n",
+              "  margin: -1px;\n",
+              "  overflow: hidden;\n",
+              "  padding: 0;\n",
+              "  position: absolute;\n",
+              "  width: 1px;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-dashed-wrapped {\n",
+              "  border: 1px dashed var(--sklearn-color-line);\n",
+              "  margin: 0 0.4em 0.5em 0.4em;\n",
+              "  box-sizing: border-box;\n",
+              "  padding-bottom: 0.4em;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-container {\n",
+              "  /* jupyter's `normalize.less` sets `[hidden] { display: none; }`\n",
+              "     but bootstrap.min.css set `[hidden] { display: none !important; }`\n",
+              "     so we also need the `!important` here to be able to override the\n",
+              "     default hidden behavior on the sphinx rendered scikit-learn.org.\n",
+              "     See: https://github.com/scikit-learn/scikit-learn/issues/21755 */\n",
+              "  display: inline-block !important;\n",
+              "  position: relative;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-text-repr-fallback {\n",
+              "  display: none;\n",
+              "}\n",
+              "\n",
+              "div.sk-parallel-item,\n",
+              "div.sk-serial,\n",
+              "div.sk-item {\n",
+              "  /* draw centered vertical line to link estimators */\n",
+              "  background-image: linear-gradient(var(--sklearn-color-text-on-default-background), var(--sklearn-color-text-on-default-background));\n",
+              "  background-size: 2px 100%;\n",
+              "  background-repeat: no-repeat;\n",
+              "  background-position: center center;\n",
+              "}\n",
+              "\n",
+              "/* Parallel-specific style estimator block */\n",
+              "\n",
+              "#sk-container-id-6 div.sk-parallel-item::after {\n",
+              "  content: \"\";\n",
+              "  width: 100%;\n",
+              "  border-bottom: 2px solid var(--sklearn-color-text-on-default-background);\n",
+              "  flex-grow: 1;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-parallel {\n",
+              "  display: flex;\n",
+              "  align-items: stretch;\n",
+              "  justify-content: center;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  position: relative;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-parallel-item {\n",
+              "  display: flex;\n",
+              "  flex-direction: column;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-parallel-item:first-child::after {\n",
+              "  align-self: flex-end;\n",
+              "  width: 50%;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-parallel-item:last-child::after {\n",
+              "  align-self: flex-start;\n",
+              "  width: 50%;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-parallel-item:only-child::after {\n",
+              "  width: 0;\n",
+              "}\n",
+              "\n",
+              "/* Serial-specific style estimator block */\n",
+              "\n",
+              "#sk-container-id-6 div.sk-serial {\n",
+              "  display: flex;\n",
+              "  flex-direction: column;\n",
+              "  align-items: center;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  padding-right: 1em;\n",
+              "  padding-left: 1em;\n",
+              "}\n",
+              "\n",
+              "\n",
+              "/* Toggleable style: style used for estimator/Pipeline/ColumnTransformer box that is\n",
+              "clickable and can be expanded/collapsed.\n",
+              "- Pipeline and ColumnTransformer use this feature and define the default style\n",
+              "- Estimators will overwrite some part of the style using the `sk-estimator` class\n",
+              "*/\n",
+              "\n",
+              "/* Pipeline and ColumnTransformer style (default) */\n",
+              "\n",
+              "#sk-container-id-6 div.sk-toggleable {\n",
+              "  /* Default theme specific background. It is overwritten whether we have a\n",
+              "  specific estimator or a Pipeline/ColumnTransformer */\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "}\n",
+              "\n",
+              "/* Toggleable label */\n",
+              "#sk-container-id-6 label.sk-toggleable__label {\n",
+              "  cursor: pointer;\n",
+              "  display: block;\n",
+              "  width: 100%;\n",
+              "  margin-bottom: 0;\n",
+              "  padding: 0.5em;\n",
+              "  box-sizing: border-box;\n",
+              "  text-align: center;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 label.sk-toggleable__label-arrow:before {\n",
+              "  /* Arrow on the left of the label */\n",
+              "  content: \"▸\";\n",
+              "  float: left;\n",
+              "  margin-right: 0.25em;\n",
+              "  color: var(--sklearn-color-icon);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 label.sk-toggleable__label-arrow:hover:before {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "}\n",
+              "\n",
+              "/* Toggleable content - dropdown */\n",
+              "\n",
+              "#sk-container-id-6 div.sk-toggleable__content {\n",
+              "  max-height: 0;\n",
+              "  max-width: 0;\n",
+              "  overflow: hidden;\n",
+              "  text-align: left;\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-toggleable__content.fitted {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-toggleable__content pre {\n",
+              "  margin: 0.2em;\n",
+              "  border-radius: 0.25em;\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-toggleable__content.fitted pre {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 input.sk-toggleable__control:checked~div.sk-toggleable__content {\n",
+              "  /* Expand drop-down */\n",
+              "  max-height: 200px;\n",
+              "  max-width: 100%;\n",
+              "  overflow: auto;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 input.sk-toggleable__control:checked~label.sk-toggleable__label-arrow:before {\n",
+              "  content: \"▾\";\n",
+              "}\n",
+              "\n",
+              "/* Pipeline/ColumnTransformer-specific style */\n",
+              "\n",
+              "#sk-container-id-6 div.sk-label input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-label.fitted input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Estimator-specific style */\n",
+              "\n",
+              "/* Colorize estimator box */\n",
+              "#sk-container-id-6 div.sk-estimator input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-estimator.fitted input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-label label.sk-toggleable__label,\n",
+              "#sk-container-id-6 div.sk-label label {\n",
+              "  /* The background is the default theme color */\n",
+              "  color: var(--sklearn-color-text-on-default-background);\n",
+              "}\n",
+              "\n",
+              "/* On hover, darken the color of the background */\n",
+              "#sk-container-id-6 div.sk-label:hover label.sk-toggleable__label {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Label box, darken color on hover, fitted */\n",
+              "#sk-container-id-6 div.sk-label.fitted:hover label.sk-toggleable__label.fitted {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Estimator label */\n",
+              "\n",
+              "#sk-container-id-6 div.sk-label label {\n",
+              "  font-family: monospace;\n",
+              "  font-weight: bold;\n",
+              "  display: inline-block;\n",
+              "  line-height: 1.2em;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-label-container {\n",
+              "  text-align: center;\n",
+              "}\n",
+              "\n",
+              "/* Estimator-specific */\n",
+              "#sk-container-id-6 div.sk-estimator {\n",
+              "  font-family: monospace;\n",
+              "  border: 1px dotted var(--sklearn-color-border-box);\n",
+              "  border-radius: 0.25em;\n",
+              "  box-sizing: border-box;\n",
+              "  margin-bottom: 0.5em;\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-estimator.fitted {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-0);\n",
+              "}\n",
+              "\n",
+              "/* on hover */\n",
+              "#sk-container-id-6 div.sk-estimator:hover {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 div.sk-estimator.fitted:hover {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Specification for estimator info (e.g. \"i\" and \"?\") */\n",
+              "\n",
+              "/* Common style for \"i\" and \"?\" */\n",
+              "\n",
+              ".sk-estimator-doc-link,\n",
+              "a:link.sk-estimator-doc-link,\n",
+              "a:visited.sk-estimator-doc-link {\n",
+              "  float: right;\n",
+              "  font-size: smaller;\n",
+              "  line-height: 1em;\n",
+              "  font-family: monospace;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  border-radius: 1em;\n",
+              "  height: 1em;\n",
+              "  width: 1em;\n",
+              "  text-decoration: none !important;\n",
+              "  margin-left: 1ex;\n",
+              "  /* unfitted */\n",
+              "  border: var(--sklearn-color-unfitted-level-1) 1pt solid;\n",
+              "  color: var(--sklearn-color-unfitted-level-1);\n",
+              "}\n",
+              "\n",
+              ".sk-estimator-doc-link.fitted,\n",
+              "a:link.sk-estimator-doc-link.fitted,\n",
+              "a:visited.sk-estimator-doc-link.fitted {\n",
+              "  /* fitted */\n",
+              "  border: var(--sklearn-color-fitted-level-1) 1pt solid;\n",
+              "  color: var(--sklearn-color-fitted-level-1);\n",
+              "}\n",
+              "\n",
+              "/* On hover */\n",
+              "div.sk-estimator:hover .sk-estimator-doc-link:hover,\n",
+              ".sk-estimator-doc-link:hover,\n",
+              "div.sk-label-container:hover .sk-estimator-doc-link:hover,\n",
+              ".sk-estimator-doc-link:hover {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-3);\n",
+              "  color: var(--sklearn-color-background);\n",
+              "  text-decoration: none;\n",
+              "}\n",
+              "\n",
+              "div.sk-estimator.fitted:hover .sk-estimator-doc-link.fitted:hover,\n",
+              ".sk-estimator-doc-link.fitted:hover,\n",
+              "div.sk-label-container:hover .sk-estimator-doc-link.fitted:hover,\n",
+              ".sk-estimator-doc-link.fitted:hover {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-3);\n",
+              "  color: var(--sklearn-color-background);\n",
+              "  text-decoration: none;\n",
+              "}\n",
+              "\n",
+              "/* Span, style for the box shown on hovering the info icon */\n",
+              ".sk-estimator-doc-link span {\n",
+              "  display: none;\n",
+              "  z-index: 9999;\n",
+              "  position: relative;\n",
+              "  font-weight: normal;\n",
+              "  right: .2ex;\n",
+              "  padding: .5ex;\n",
+              "  margin: .5ex;\n",
+              "  width: min-content;\n",
+              "  min-width: 20ex;\n",
+              "  max-width: 50ex;\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  box-shadow: 2pt 2pt 4pt #999;\n",
+              "  /* unfitted */\n",
+              "  background: var(--sklearn-color-unfitted-level-0);\n",
+              "  border: .5pt solid var(--sklearn-color-unfitted-level-3);\n",
+              "}\n",
+              "\n",
+              ".sk-estimator-doc-link.fitted span {\n",
+              "  /* fitted */\n",
+              "  background: var(--sklearn-color-fitted-level-0);\n",
+              "  border: var(--sklearn-color-fitted-level-3);\n",
+              "}\n",
+              "\n",
+              ".sk-estimator-doc-link:hover span {\n",
+              "  display: block;\n",
+              "}\n",
+              "\n",
+              "/* \"?\"-specific style due to the `<a>` HTML tag */\n",
+              "\n",
+              "#sk-container-id-6 a.estimator_doc_link {\n",
+              "  float: right;\n",
+              "  font-size: 1rem;\n",
+              "  line-height: 1em;\n",
+              "  font-family: monospace;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  border-radius: 1rem;\n",
+              "  height: 1rem;\n",
+              "  width: 1rem;\n",
+              "  text-decoration: none;\n",
+              "  /* unfitted */\n",
+              "  color: var(--sklearn-color-unfitted-level-1);\n",
+              "  border: var(--sklearn-color-unfitted-level-1) 1pt solid;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 a.estimator_doc_link.fitted {\n",
+              "  /* fitted */\n",
+              "  border: var(--sklearn-color-fitted-level-1) 1pt solid;\n",
+              "  color: var(--sklearn-color-fitted-level-1);\n",
+              "}\n",
+              "\n",
+              "/* On hover */\n",
+              "#sk-container-id-6 a.estimator_doc_link:hover {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-3);\n",
+              "  color: var(--sklearn-color-background);\n",
+              "  text-decoration: none;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-6 a.estimator_doc_link.fitted:hover {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-3);\n",
+              "}\n",
+              "</style><div id=\"sk-container-id-6\" class=\"sk-top-container\"><div class=\"sk-text-repr-fallback\"><pre>GridSearchCV(estimator=SVC(tol=1e-05),\n",
+              "             param_grid={&#x27;C&#x27;: [50, 75, 100, 125, 150],\n",
+              "                         &#x27;gamma&#x27;: [0.01, 0.001, 0.0001, 1e-05, 1e-06],\n",
+              "                         &#x27;kernel&#x27;: [&#x27;rbf&#x27;]},\n",
+              "             verbose=1)</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class=\"sk-container\" hidden><div class=\"sk-item sk-dashed-wrapped\"><div class=\"sk-label-container\"><div class=\"sk-label fitted sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-10\" type=\"checkbox\" ><label for=\"sk-estimator-id-10\" class=\"sk-toggleable__label fitted sk-toggleable__label-arrow fitted\">&nbsp;&nbsp;GridSearchCV<a class=\"sk-estimator-doc-link fitted\" rel=\"noreferrer\" target=\"_blank\" href=\"https://scikit-learn.org/1.5/modules/generated/sklearn.model_selection.GridSearchCV.html\">?<span>Documentation for GridSearchCV</span></a><span class=\"sk-estimator-doc-link fitted\">i<span>Fitted</span></span></label><div class=\"sk-toggleable__content fitted\"><pre>GridSearchCV(estimator=SVC(tol=1e-05),\n",
+              "             param_grid={&#x27;C&#x27;: [50, 75, 100, 125, 150],\n",
+              "                         &#x27;gamma&#x27;: [0.01, 0.001, 0.0001, 1e-05, 1e-06],\n",
+              "                         &#x27;kernel&#x27;: [&#x27;rbf&#x27;]},\n",
+              "             verbose=1)</pre></div> </div></div><div class=\"sk-parallel\"><div class=\"sk-parallel-item\"><div class=\"sk-item\"><div class=\"sk-label-container\"><div class=\"sk-label fitted sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-11\" type=\"checkbox\" ><label for=\"sk-estimator-id-11\" class=\"sk-toggleable__label fitted sk-toggleable__label-arrow fitted\">best_estimator_: SVC</label><div class=\"sk-toggleable__content fitted\"><pre>SVC(C=100, gamma=1e-05, tol=1e-05)</pre></div> </div></div><div class=\"sk-serial\"><div class=\"sk-item\"><div class=\"sk-estimator fitted sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-12\" type=\"checkbox\" ><label for=\"sk-estimator-id-12\" class=\"sk-toggleable__label fitted sk-toggleable__label-arrow fitted\">&nbsp;SVC<a class=\"sk-estimator-doc-link fitted\" rel=\"noreferrer\" target=\"_blank\" href=\"https://scikit-learn.org/1.5/modules/generated/sklearn.svm.SVC.html\">?<span>Documentation for SVC</span></a></label><div class=\"sk-toggleable__content fitted\"><pre>SVC(C=100, gamma=1e-05, tol=1e-05)</pre></div> </div></div></div></div></div></div></div></div></div>"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 43
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "grid.best_estimator_"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 80
+        },
+        "id": "aPLSHYzjI2Ai",
+        "outputId": "ec50902c-4c4f-425b-a826-09ea45c0eef5"
+      },
+      "execution_count": 44,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "SVC(C=100, gamma=1e-05, tol=1e-05)"
+            ],
+            "text/html": [
+              "<style>#sk-container-id-7 {\n",
+              "  /* Definition of color scheme common for light and dark mode */\n",
+              "  --sklearn-color-text: black;\n",
+              "  --sklearn-color-line: gray;\n",
+              "  /* Definition of color scheme for unfitted estimators */\n",
+              "  --sklearn-color-unfitted-level-0: #fff5e6;\n",
+              "  --sklearn-color-unfitted-level-1: #f6e4d2;\n",
+              "  --sklearn-color-unfitted-level-2: #ffe0b3;\n",
+              "  --sklearn-color-unfitted-level-3: chocolate;\n",
+              "  /* Definition of color scheme for fitted estimators */\n",
+              "  --sklearn-color-fitted-level-0: #f0f8ff;\n",
+              "  --sklearn-color-fitted-level-1: #d4ebff;\n",
+              "  --sklearn-color-fitted-level-2: #b3dbfd;\n",
+              "  --sklearn-color-fitted-level-3: cornflowerblue;\n",
+              "\n",
+              "  /* Specific color for light theme */\n",
+              "  --sklearn-color-text-on-default-background: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, black)));\n",
+              "  --sklearn-color-background: var(--sg-background-color, var(--theme-background, var(--jp-layout-color0, white)));\n",
+              "  --sklearn-color-border-box: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, black)));\n",
+              "  --sklearn-color-icon: #696969;\n",
+              "\n",
+              "  @media (prefers-color-scheme: dark) {\n",
+              "    /* Redefinition of color scheme for dark theme */\n",
+              "    --sklearn-color-text-on-default-background: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, white)));\n",
+              "    --sklearn-color-background: var(--sg-background-color, var(--theme-background, var(--jp-layout-color0, #111)));\n",
+              "    --sklearn-color-border-box: var(--sg-text-color, var(--theme-code-foreground, var(--jp-content-font-color1, white)));\n",
+              "    --sklearn-color-icon: #878787;\n",
+              "  }\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 pre {\n",
+              "  padding: 0;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 input.sk-hidden--visually {\n",
+              "  border: 0;\n",
+              "  clip: rect(1px 1px 1px 1px);\n",
+              "  clip: rect(1px, 1px, 1px, 1px);\n",
+              "  height: 1px;\n",
+              "  margin: -1px;\n",
+              "  overflow: hidden;\n",
+              "  padding: 0;\n",
+              "  position: absolute;\n",
+              "  width: 1px;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-dashed-wrapped {\n",
+              "  border: 1px dashed var(--sklearn-color-line);\n",
+              "  margin: 0 0.4em 0.5em 0.4em;\n",
+              "  box-sizing: border-box;\n",
+              "  padding-bottom: 0.4em;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-container {\n",
+              "  /* jupyter's `normalize.less` sets `[hidden] { display: none; }`\n",
+              "     but bootstrap.min.css set `[hidden] { display: none !important; }`\n",
+              "     so we also need the `!important` here to be able to override the\n",
+              "     default hidden behavior on the sphinx rendered scikit-learn.org.\n",
+              "     See: https://github.com/scikit-learn/scikit-learn/issues/21755 */\n",
+              "  display: inline-block !important;\n",
+              "  position: relative;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-text-repr-fallback {\n",
+              "  display: none;\n",
+              "}\n",
+              "\n",
+              "div.sk-parallel-item,\n",
+              "div.sk-serial,\n",
+              "div.sk-item {\n",
+              "  /* draw centered vertical line to link estimators */\n",
+              "  background-image: linear-gradient(var(--sklearn-color-text-on-default-background), var(--sklearn-color-text-on-default-background));\n",
+              "  background-size: 2px 100%;\n",
+              "  background-repeat: no-repeat;\n",
+              "  background-position: center center;\n",
+              "}\n",
+              "\n",
+              "/* Parallel-specific style estimator block */\n",
+              "\n",
+              "#sk-container-id-7 div.sk-parallel-item::after {\n",
+              "  content: \"\";\n",
+              "  width: 100%;\n",
+              "  border-bottom: 2px solid var(--sklearn-color-text-on-default-background);\n",
+              "  flex-grow: 1;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-parallel {\n",
+              "  display: flex;\n",
+              "  align-items: stretch;\n",
+              "  justify-content: center;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  position: relative;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-parallel-item {\n",
+              "  display: flex;\n",
+              "  flex-direction: column;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-parallel-item:first-child::after {\n",
+              "  align-self: flex-end;\n",
+              "  width: 50%;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-parallel-item:last-child::after {\n",
+              "  align-self: flex-start;\n",
+              "  width: 50%;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-parallel-item:only-child::after {\n",
+              "  width: 0;\n",
+              "}\n",
+              "\n",
+              "/* Serial-specific style estimator block */\n",
+              "\n",
+              "#sk-container-id-7 div.sk-serial {\n",
+              "  display: flex;\n",
+              "  flex-direction: column;\n",
+              "  align-items: center;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  padding-right: 1em;\n",
+              "  padding-left: 1em;\n",
+              "}\n",
+              "\n",
+              "\n",
+              "/* Toggleable style: style used for estimator/Pipeline/ColumnTransformer box that is\n",
+              "clickable and can be expanded/collapsed.\n",
+              "- Pipeline and ColumnTransformer use this feature and define the default style\n",
+              "- Estimators will overwrite some part of the style using the `sk-estimator` class\n",
+              "*/\n",
+              "\n",
+              "/* Pipeline and ColumnTransformer style (default) */\n",
+              "\n",
+              "#sk-container-id-7 div.sk-toggleable {\n",
+              "  /* Default theme specific background. It is overwritten whether we have a\n",
+              "  specific estimator or a Pipeline/ColumnTransformer */\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "}\n",
+              "\n",
+              "/* Toggleable label */\n",
+              "#sk-container-id-7 label.sk-toggleable__label {\n",
+              "  cursor: pointer;\n",
+              "  display: block;\n",
+              "  width: 100%;\n",
+              "  margin-bottom: 0;\n",
+              "  padding: 0.5em;\n",
+              "  box-sizing: border-box;\n",
+              "  text-align: center;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 label.sk-toggleable__label-arrow:before {\n",
+              "  /* Arrow on the left of the label */\n",
+              "  content: \"▸\";\n",
+              "  float: left;\n",
+              "  margin-right: 0.25em;\n",
+              "  color: var(--sklearn-color-icon);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 label.sk-toggleable__label-arrow:hover:before {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "}\n",
+              "\n",
+              "/* Toggleable content - dropdown */\n",
+              "\n",
+              "#sk-container-id-7 div.sk-toggleable__content {\n",
+              "  max-height: 0;\n",
+              "  max-width: 0;\n",
+              "  overflow: hidden;\n",
+              "  text-align: left;\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-toggleable__content.fitted {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-toggleable__content pre {\n",
+              "  margin: 0.2em;\n",
+              "  border-radius: 0.25em;\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-toggleable__content.fitted pre {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 input.sk-toggleable__control:checked~div.sk-toggleable__content {\n",
+              "  /* Expand drop-down */\n",
+              "  max-height: 200px;\n",
+              "  max-width: 100%;\n",
+              "  overflow: auto;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 input.sk-toggleable__control:checked~label.sk-toggleable__label-arrow:before {\n",
+              "  content: \"▾\";\n",
+              "}\n",
+              "\n",
+              "/* Pipeline/ColumnTransformer-specific style */\n",
+              "\n",
+              "#sk-container-id-7 div.sk-label input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-label.fitted input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Estimator-specific style */\n",
+              "\n",
+              "/* Colorize estimator box */\n",
+              "#sk-container-id-7 div.sk-estimator input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-estimator.fitted input.sk-toggleable__control:checked~label.sk-toggleable__label {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-label label.sk-toggleable__label,\n",
+              "#sk-container-id-7 div.sk-label label {\n",
+              "  /* The background is the default theme color */\n",
+              "  color: var(--sklearn-color-text-on-default-background);\n",
+              "}\n",
+              "\n",
+              "/* On hover, darken the color of the background */\n",
+              "#sk-container-id-7 div.sk-label:hover label.sk-toggleable__label {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Label box, darken color on hover, fitted */\n",
+              "#sk-container-id-7 div.sk-label.fitted:hover label.sk-toggleable__label.fitted {\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Estimator label */\n",
+              "\n",
+              "#sk-container-id-7 div.sk-label label {\n",
+              "  font-family: monospace;\n",
+              "  font-weight: bold;\n",
+              "  display: inline-block;\n",
+              "  line-height: 1.2em;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-label-container {\n",
+              "  text-align: center;\n",
+              "}\n",
+              "\n",
+              "/* Estimator-specific */\n",
+              "#sk-container-id-7 div.sk-estimator {\n",
+              "  font-family: monospace;\n",
+              "  border: 1px dotted var(--sklearn-color-border-box);\n",
+              "  border-radius: 0.25em;\n",
+              "  box-sizing: border-box;\n",
+              "  margin-bottom: 0.5em;\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-0);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-estimator.fitted {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-0);\n",
+              "}\n",
+              "\n",
+              "/* on hover */\n",
+              "#sk-container-id-7 div.sk-estimator:hover {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-2);\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 div.sk-estimator.fitted:hover {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-2);\n",
+              "}\n",
+              "\n",
+              "/* Specification for estimator info (e.g. \"i\" and \"?\") */\n",
+              "\n",
+              "/* Common style for \"i\" and \"?\" */\n",
+              "\n",
+              ".sk-estimator-doc-link,\n",
+              "a:link.sk-estimator-doc-link,\n",
+              "a:visited.sk-estimator-doc-link {\n",
+              "  float: right;\n",
+              "  font-size: smaller;\n",
+              "  line-height: 1em;\n",
+              "  font-family: monospace;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  border-radius: 1em;\n",
+              "  height: 1em;\n",
+              "  width: 1em;\n",
+              "  text-decoration: none !important;\n",
+              "  margin-left: 1ex;\n",
+              "  /* unfitted */\n",
+              "  border: var(--sklearn-color-unfitted-level-1) 1pt solid;\n",
+              "  color: var(--sklearn-color-unfitted-level-1);\n",
+              "}\n",
+              "\n",
+              ".sk-estimator-doc-link.fitted,\n",
+              "a:link.sk-estimator-doc-link.fitted,\n",
+              "a:visited.sk-estimator-doc-link.fitted {\n",
+              "  /* fitted */\n",
+              "  border: var(--sklearn-color-fitted-level-1) 1pt solid;\n",
+              "  color: var(--sklearn-color-fitted-level-1);\n",
+              "}\n",
+              "\n",
+              "/* On hover */\n",
+              "div.sk-estimator:hover .sk-estimator-doc-link:hover,\n",
+              ".sk-estimator-doc-link:hover,\n",
+              "div.sk-label-container:hover .sk-estimator-doc-link:hover,\n",
+              ".sk-estimator-doc-link:hover {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-3);\n",
+              "  color: var(--sklearn-color-background);\n",
+              "  text-decoration: none;\n",
+              "}\n",
+              "\n",
+              "div.sk-estimator.fitted:hover .sk-estimator-doc-link.fitted:hover,\n",
+              ".sk-estimator-doc-link.fitted:hover,\n",
+              "div.sk-label-container:hover .sk-estimator-doc-link.fitted:hover,\n",
+              ".sk-estimator-doc-link.fitted:hover {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-3);\n",
+              "  color: var(--sklearn-color-background);\n",
+              "  text-decoration: none;\n",
+              "}\n",
+              "\n",
+              "/* Span, style for the box shown on hovering the info icon */\n",
+              ".sk-estimator-doc-link span {\n",
+              "  display: none;\n",
+              "  z-index: 9999;\n",
+              "  position: relative;\n",
+              "  font-weight: normal;\n",
+              "  right: .2ex;\n",
+              "  padding: .5ex;\n",
+              "  margin: .5ex;\n",
+              "  width: min-content;\n",
+              "  min-width: 20ex;\n",
+              "  max-width: 50ex;\n",
+              "  color: var(--sklearn-color-text);\n",
+              "  box-shadow: 2pt 2pt 4pt #999;\n",
+              "  /* unfitted */\n",
+              "  background: var(--sklearn-color-unfitted-level-0);\n",
+              "  border: .5pt solid var(--sklearn-color-unfitted-level-3);\n",
+              "}\n",
+              "\n",
+              ".sk-estimator-doc-link.fitted span {\n",
+              "  /* fitted */\n",
+              "  background: var(--sklearn-color-fitted-level-0);\n",
+              "  border: var(--sklearn-color-fitted-level-3);\n",
+              "}\n",
+              "\n",
+              ".sk-estimator-doc-link:hover span {\n",
+              "  display: block;\n",
+              "}\n",
+              "\n",
+              "/* \"?\"-specific style due to the `<a>` HTML tag */\n",
+              "\n",
+              "#sk-container-id-7 a.estimator_doc_link {\n",
+              "  float: right;\n",
+              "  font-size: 1rem;\n",
+              "  line-height: 1em;\n",
+              "  font-family: monospace;\n",
+              "  background-color: var(--sklearn-color-background);\n",
+              "  border-radius: 1rem;\n",
+              "  height: 1rem;\n",
+              "  width: 1rem;\n",
+              "  text-decoration: none;\n",
+              "  /* unfitted */\n",
+              "  color: var(--sklearn-color-unfitted-level-1);\n",
+              "  border: var(--sklearn-color-unfitted-level-1) 1pt solid;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 a.estimator_doc_link.fitted {\n",
+              "  /* fitted */\n",
+              "  border: var(--sklearn-color-fitted-level-1) 1pt solid;\n",
+              "  color: var(--sklearn-color-fitted-level-1);\n",
+              "}\n",
+              "\n",
+              "/* On hover */\n",
+              "#sk-container-id-7 a.estimator_doc_link:hover {\n",
+              "  /* unfitted */\n",
+              "  background-color: var(--sklearn-color-unfitted-level-3);\n",
+              "  color: var(--sklearn-color-background);\n",
+              "  text-decoration: none;\n",
+              "}\n",
+              "\n",
+              "#sk-container-id-7 a.estimator_doc_link.fitted:hover {\n",
+              "  /* fitted */\n",
+              "  background-color: var(--sklearn-color-fitted-level-3);\n",
+              "}\n",
+              "</style><div id=\"sk-container-id-7\" class=\"sk-top-container\"><div class=\"sk-text-repr-fallback\"><pre>SVC(C=100, gamma=1e-05, tol=1e-05)</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class=\"sk-container\" hidden><div class=\"sk-item\"><div class=\"sk-estimator fitted sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-13\" type=\"checkbox\" checked><label for=\"sk-estimator-id-13\" class=\"sk-toggleable__label fitted sk-toggleable__label-arrow fitted\">&nbsp;&nbsp;SVC<a class=\"sk-estimator-doc-link fitted\" rel=\"noreferrer\" target=\"_blank\" href=\"https://scikit-learn.org/1.5/modules/generated/sklearn.svm.SVC.html\">?<span>Documentation for SVC</span></a><span class=\"sk-estimator-doc-link fitted\">i<span>Fitted</span></span></label><div class=\"sk-toggleable__content fitted\"><pre>SVC(C=100, gamma=1e-05, tol=1e-05)</pre></div> </div></div></div></div>"
+            ]
+          },
+          "metadata": {},
           "execution_count": 44
         }
       ]
@@ -4218,11 +5172,11 @@
         "print(confusion_matrix(y_test,grid_predictions))"
       ],
       "metadata": {
+        "id": "TQcyorI8JQj7",
+        "outputId": "be4f31b0-d9be-46c4-f642-234f0a5b04cb",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "BP84zX8vG77i",
-        "outputId": "cf9b907b-a7e6-4436-c1d9-2515afca316d"
+        }
       },
       "execution_count": 45,
       "outputs": [
