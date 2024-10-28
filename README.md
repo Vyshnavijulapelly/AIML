@@ -6,3 +6,4 @@
 # [Lab-05]()-mplement Logistic Regression using Titanic Ship Data
 # [Lab-06](https://colab.research.google.com/drive/1bhZHfkbfSkMCmRTOrpp65ejSmCKgA6eB#scrollTo=g8LW_1SuKOHl)- Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 # [Lab-07](https://colab.research.google.com/drive/1axCrzjdadVenGI_zRRl6lSYRr0WXJ6Mi#scrollTo=BP84zX8vG77i)- Implement Support Vector Machine using Breast Cancer Data
+# [Lab-08](https://colab.research.google.com/drive/1LrbVIPIpI6V2aBwXGw8SKs6PuT7H5Z2G#scrollTo=N0TEtNYPHfmB)-
