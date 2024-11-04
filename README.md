@@ -8,4 +8,4 @@
 # [Lab-07](https://colab.research.google.com/drive/1axCrzjdadVenGI_zRRl6lSYRr0WXJ6Mi#scrollTo=BP84zX8vG77i)- Implement Support Vector Machine using Breast Cancer Data
 # [Lab-08](https://colab.research.google.com/drive/1LrbVIPIpI6V2aBwXGw8SKs6PuT7H5Z2G#scrollTo=N0TEtNYPHfmB)- Implement Decision Tree Classifier using Lending Club Data
 # [Lab-09](https://colab.research.google.com/drive/1RNg3Qd7lfj3Q7OS94MFL63lJe31-5971#scrollTo=noWpn8dUY1TT)-Implement Random Forest Ensemble Classifier using Lending Club Data
-# [Lab-10]()-mplement K-Means Clustering using Iris Data
+# [Lab-10](https://colab.research.google.com/drive/1M262CfijRW2EgzuFpjNxvs82i60rYtp8#scrollTo=y8UslsRlcXy7)-mplement K-Means Clustering using Iris Data
